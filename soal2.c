@@ -97,7 +97,7 @@ int main (){
             island++;
         }
     }
-    printf ("ISLAND %d\n", island);
+    printf ("ISLANDS %d\n", island);
     printf ("LARGEST %d\n", max);
     return 0;
 }
